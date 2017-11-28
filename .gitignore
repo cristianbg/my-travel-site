@@ -1,0 +1,11 @@
+#extensions
+*.diff
+*.err
+*.orig
+*.log
+
+#folders
+node_modules/
+.tmp/
+.project
+.settings
